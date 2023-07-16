@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="account-persist" />
+        <module name="chapter_7" />
         <module name="chapter_5" />
         <module name="chapter_3" />
-        <module name="chapter_7" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="account_aggreater" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -7,7 +7,16 @@
         <option value="$PROJECT_DIR$/chapter_3/pom.xml" />
         <option value="$PROJECT_DIR$/chapter_5/pom.xml" />
         <option value="$PROJECT_DIR$/chapter_7/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter_8/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter_8/account_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter_8/account_aggreater/account_email/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter_8/account_aggreater/account_parent/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/chapter_8/account_aggreater/account_email/untitled/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
