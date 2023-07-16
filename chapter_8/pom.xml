@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.chensh</groupId>
-    <artifactId>chapter_8_aggreatator</artifactId>
+    <artifactId>chapter_8</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Account Aggregator</name>

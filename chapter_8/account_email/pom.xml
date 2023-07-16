@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.chensh</groupId>
         <artifactId>account_parent</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0-SNAPSHOT</version>
         <relativePath>../account_parent/pom.xml</relativePath>
     </parent>
 

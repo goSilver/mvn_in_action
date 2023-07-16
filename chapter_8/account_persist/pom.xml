@@ -7,11 +7,11 @@
     <parent>
         <groupId>com.chensh</groupId>
         <artifactId>account-parent</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0-SNAPSHOT</version>
         <relativePath>../account_parent/pom.xml</relativePath>
     </parent>
 
-    <artifactId>account-persist</artifactId>
+    <artifactId>account_persist</artifactId>
     <name>Account Persist</name>
 
     <properties>

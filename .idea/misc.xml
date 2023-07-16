@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/chapter_8/account_parent/pom.xml" />
         <option value="$PROJECT_DIR$/chapter_8/account_aggreater/account_email/pom.xml" />
         <option value="$PROJECT_DIR$/chapter_8/account_aggreater/account_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter_8_aggreatator/account_persist/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
