@@ -9,6 +9,10 @@
     <file url="file://$PROJECT_DIR$/chapter_7/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter_8/account_email/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter_8/account_email/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter_8/account_parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter_8/account_parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter_8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter_8/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter_88/account_aggreater/account_emaill/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter_88/account_aggreater/account_emaill/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter_88/account_aggreater/account_parentt/src/main/java" charset="UTF-8" />
@@ -17,11 +21,5 @@
     <file url="file://$PROJECT_DIR$/chapter_88/account_aggreater/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter_88/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter_88/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/chapter_8_aggreatator/account_email/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/chapter_8_aggreatator/account_email/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/chapter_8_aggreatator/account_parent/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/chapter_8_aggreatator/account_parent/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/chapter_8_aggreatator/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/chapter_8_aggreatator/src/main/resources" charset="UTF-8" />
   </component>
 </project>
