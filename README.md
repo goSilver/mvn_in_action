@@ -1,3 +1,4 @@
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/2548312/1690078539162-4a2c1ab0-6ab8-4c04-b83b-b15517f0df8a.png#averageHue=%23040100&clientId=u8654682c-ec90-4&from=paste&id=u94bb9b06&originHeight=86&originWidth=340&originalType=binary&ratio=2&rotation=0&showTitle=false&size=14643&status=done&style=none&taskId=u395217fa-8bbb-4b5c-9a6d-cfce8f3e434&title=)
 本文是《Maven实战》的读书笔记，实战代码仓库：[https://github.com/goSilver/mvn_in_action](https://github.com/goSilver/mvn_in_action)
 ## 第五章 坐标和依赖
 ### 5.1 坐标的定义
